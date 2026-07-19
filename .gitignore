@@ -1,4 +1,4 @@
-docs/
+/docs
 /.agents
 node_modules/
 .pnpm-store/
