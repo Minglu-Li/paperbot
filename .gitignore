@@ -1,0 +1,16 @@
+/docs
+/.agents
+node_modules/
+.pnpm-store/
+dist/
+build/
+coverage/
+.next/
+.turbo/
+
+.env
+.env.*
+!.env.example
+
+.superpowers/
+*.log
